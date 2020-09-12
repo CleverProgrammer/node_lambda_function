@@ -12,6 +12,6 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "moment": "^2.26.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
